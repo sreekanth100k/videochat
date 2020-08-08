@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966763079049",
+    "firebase_url": "https://srkvideocall.firebaseio.com",
+    "project_id": "srkvideocall",
+    "storage_bucket": "srkvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966763079049:android:7bdf6a334064adb07eed58",
+        "android_client_info": {
+          "package_name": "com.sreekanth.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966763079049-0tg5mmqgmflro9m14l1jdl4p2aotlq7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sreekanth.videochat",
+            "certificate_hash": "92f0305ceb96d21d973f6f5875def5974123d85e"
+          }
+        },
+        {
+          "client_id": "966763079049-slk38vsu0iatuqs69n91mli8i86dc0cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iVi54Pnmo5T2ka92DYSIBs8HibJMWfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966763079049-slk38vsu0iatuqs69n91mli8i86dc0cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
